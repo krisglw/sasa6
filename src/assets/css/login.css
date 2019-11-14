@@ -1,0 +1,187 @@
+.k_padding4{
+  padding:0px 15px ;
+  box-sizing: border-box;
+}
+.k_padding5{
+  padding:0px 25px ;
+  box-sizing: border-box;
+}
+header{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+.index_img{
+  padding:20px 15px;
+  box-sizing: border-box;
+}
+header .backIndex2{
+  float: right;
+  width: 1.8rem;
+  height: 1.8rem;
+}
+.logo2{
+  width: 5rem;
+  height: 5rem;
+  margin:60px auto 30px;
+}
+.logo2 img{
+  width: 100%;
+  height: 100%;
+}
+.loginWay{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.account_login{
+  margin-right: 25px;
+}
+.pass,.phone_number{
+  position: relative;
+}
+.clear1{
+  position: absolute;
+  right: 15px;
+  top: 16px;
+  width: 0.9rem;
+  height: 0.9rem;
+}
+.clear2{
+  position: absolute;
+  right: 41px;
+  top: 16px;
+  width: 0.9rem;
+  height: 0.9rem;
+}
+.login1 input,.login2 input{
+  width:100%;
+  outline: none;
+  border: none;
+  padding: 10px 0px;
+  border-bottom: 1px solid #CCCCCC;
+  margin: 5px 0px;
+  font-size: 0.9rem;
+
+}
+.passIcon{
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  width:1.5rem;
+  height: 1rem;
+  background: url(../images/pass1.png);
+  background-size: 100%;
+}
+.passIcon2{
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  width:1.5rem;
+  height: 1rem;
+  background: url(../images/pass2.png);
+  background-size: 100%;
+}
+.getCode{
+  position: relative;
+}
+.getCode2{
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  color: #ed008c;
+}
+/* 滑块 */
+.slide{
+  height: 50px;
+  background-color: #F6F6F6;
+  border-radius: 20px;
+  margin: 20px auto;
+  width: 85%;
+  position: relative;
+  text-align: center;
+  border: 1px solid #F5F5F5;
+  line-height: 50px;
+  color: #45494c;
+}
+.slide_iconBox{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 0 3px rgba(0,0,0,.3);
+
+}
+.slide_icon{
+    display: inline-block;
+    background-image: url("../../assets/images/icon_light.png");
+    background-position: 0 -26px;
+    background-size: 32px 544px;
+    width: 14px;
+    height: 10px;
+    position: absolute;
+    left: 17px;
+    top: 21px;
+}
+/* 登录 */
+.loginBtn{
+  width: 85%;
+  text-align: center;
+  padding: 15px 0px;
+  box-sizing: border-box;
+  background-image: linear-gradient(90deg,#f67fc6,#ff9ebb);
+  color: #fff;
+  margin:10px auto;
+  border-radius: 30px;
+}
+.loginBtn2{
+  background-image: linear-gradient(90deg,#ed008c 7%,#ff3d76);
+}
+.loginBtn span{
+  letter-spacing: 5px;
+}
+.login_resign{
+  width: 85%;
+  margin:10px auto;
+  color: #666666;
+}
+.register{
+  float: left;
+}
+.forgetPass{
+  float: right;
+}
+.other_login{
+  width: 60%;
+  margin: 80px auto 30px;
+}
+.other_login_img{
+  overflow: hidden;
+  text-align: center;
+}
+.other_login img{
+  width: 2rem;
+  height: 2rem;
+}
+.weibo{
+  float: left;
+}
+.alipay{
+  float: right;
+}
+.other_login p{
+  color: #999999;
+  margin-top: 10px;
+  font-size: 0.85rem;
+  text-align: center;
+}
+.current{
+  color: #ed008c;
+  border-bottom: 1.5px solid #ed008c;
+  padding-bottom: 2px;
+  box-sizing: border-box;
+}

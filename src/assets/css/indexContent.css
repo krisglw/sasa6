@@ -1,0 +1,284 @@
+.blank{
+  width: 100%;
+  height: 0.6rem;
+  background: #f6f6f6;
+}
+.c1_titie b{
+  margin-right: 5px;
+}
+.k_padding{
+  padding:0px 15px;
+}
+.c1_titie{
+	display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+.c1_titie span{
+  line-height: 1.15rem;
+  text-align: center;
+}
+.circle{
+  display: inline-block;
+  width: 1.15rem;
+  height: 1.15rem;
+  background-color: #000;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 0.85rem;
+}
+.c1_titie_more a{
+  font-size: 0.85rem;
+  /* float: right; */
+}
+/* lunbo1 */
+.lunbo1{
+  margin-top: 5px;
+  font-size: 0.7rem;
+}
+.lunbo1 .swiper-pagination-bullet{
+  display: none;
+}
+.lunbo1 h3,.content2 h3,.content3 h3{
+  height: 2rem;
+ text-overflow: -o-ellipsis-lastline;
+ overflow: hidden;
+ text-overflow: ellipsis;
+ display: -webkit-box;
+ -webkit-line-clamp: 2;
+ -webkit-box-orient: vertical
+}
+.lunbo1 img,.content2 img{
+  width: 6.5rem;
+  height: 6rem;
+}
+.progress{
+  position: relative;
+  background: #ECECEC;
+  border-radius: 35px;
+  height: 6px;
+  width: 100%;
+  margin: 5px 0px;
+}
+.progress span{
+  display: inline-block;
+  width: 90%;
+  height: 6px;
+  background: linear-gradient(90deg,#ff80b4,#ff4588);
+  border-radius: 35px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.sales_price{
+  color:#ed008c ;
+  padding-bottom: 15px;
+}
+.price{
+  float: right;
+}
+/* content2 */
+.c2_title{
+  padding: 10px 0;
+}
+.content2 .swiper-pagination-bullet{
+  display: none;
+}
+.content2 .c2_img{
+  width:100%;
+  height:100%;
+}
+.content2 h3{
+  font-size: 0.7rem;
+  padding-top: 5px;
+}
+.c2_price{
+  text-align: center;
+  font-size: 0.85rem;
+  padding-bottom: 15px;
+  padding-top: 5px;
+}
+.newPrice{
+  color:#ed008c;
+}
+.oldPrice{
+  color: #ccc;
+  text-decoration: line-through;
+}
+.c2_more{
+   display: flex;
+   align-items:center;
+   justify-content:center;
+   width:100%;
+}
+.c2_more a{
+  display: block;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  border-radius: 30px;
+  font-size: 0.7rem;
+  margin-top:72%;
+}
+.countdown{
+  margin-bottom: 100px;
+}
+/* 倒计时 */
+.c2_imgBox{
+  position: relative;
+  text-align: center;
+  width: 100%;
+
+}
+.c2_time{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  font-size: 0.5rem;
+  opacity: 0.8;
+  background: #fff0f5;
+  color: #e4007f;
+  height: 2rem;
+  width: 100%;
+}
+/* content3 */
+.c3_title,.c4_title{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.content3 img{
+  width: 100%;
+}
+.c3_title a,.content4 a{
+  float: right;
+  font-size: 0.85rem;
+  margin-top: 3px;
+}
+.content3 h3{
+  font-size: 0.7rem;
+  padding-top: 5px;
+}
+/* content4 */
+.c4_swiper{
+  width: 80%;
+}
+.content4 img{
+  width: 100%;
+  border-radius: 10px;
+}
+.c4_list2{
+  margin-top:30px;
+}
+/* content5 */
+.indexBlank{
+  /* margin-bottom:100px; */
+  background-color: #f6f6f6;
+}
+.content5 ul{
+  display: flex;
+  display:-webkit-flex;
+  flex-wrap: wrap;
+}
+.content5 ul li{
+  margin: 5px;
+  padding: 0px 5px;
+   width: calc(50% - 10px);
+  box-sizing: border-box;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content5 h3{
+  font-size: 0.85rem;
+  font-weight: bold;
+   margin-top: 5px;
+   height: 40px;
+}
+.blank2{
+  background-color: #f6f6f6;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  padding: 20px 0px;
+
+}
+.blank2 h2:before,.blank2 h2:after{
+  content: '';
+  display: inline-block;
+  height: 1px;
+  width:15%;
+  background-color: #ccc;
+  position: absolute;
+  top: 50%;
+}
+.blank2 h2:before{
+  left: 23%;
+}
+.blank2 h2:after{
+  right: 23%;
+}
+.express span{
+  display: inline-block;
+  padding: 2px 10px;
+  color: #ed008c;
+  border: 1px solid #ed008c;
+  border-radius: 30px;
+  font-size: 0.55rem;
+  margin: 5px 0px;
+}
+.c5_imgBox{
+  position: relative;
+}
+.c5_img1{
+  width: 100%;
+  height: 186px;
+}
+.c5_img2,.c5_img3{
+  width: 2.5rem;
+  height: 1.5rem;
+  position: absolute;
+  top: 5px;
+}
+.c5_img2{
+  left: 5px;
+}
+.c5_img3{
+  left: 40px;
+}
+.c2_time{
+  text-align: center;
+}
+.content5 .c2_price{
+  float: left;
+  font-size: 1rem;
+}
+.area{
+  float: right;
+  font-size: 0.75rem;
+  margin-right: 5px;
+  margin-top: 7px;
+}
+.c5_box2{
+  background-color: #fff;
+}
+/* 底部留白 */
+.blank3{
+  width: 100%;
+  height: 4rem;
+  background-color: #f6f6f6;
+}
+[v-clock]{
+  display: none;
+}
+.back{
+  position: fixed;
+  right: 3%;
+  bottom:14%;
+  z-index: 100;
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.back img{
+  width: 100%;
+}

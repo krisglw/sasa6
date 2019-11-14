@@ -1,0 +1,52 @@
+{
+  "list1":[
+    {
+      "pic":"./data/images/u01.jpg",
+      "userName":"cel***@126.com",
+      "review":"非常满意，一直用这款卸妆液，温和不刺激，淡妆卸妆是足够了 "
+    },
+    {
+      "pic":"./data/images/u02.png",
+      "userName":"150****2598",
+      "review":"非常满意，贝德玛卸妆水一直很好用，无限回购款 "
+    },
+    {
+      "pic":"./data/images/u03.jpg",
+      "userName":"临夏",
+      "review":" 一直在用这个卸妆，挺好的。这次包装很赞。不会碰破瓶子。 "
+    }
+  ],
+  "list2":[
+    {
+       "pic":"./data/images/d06.jpg",
+       "desc":"九朵云 焕亮净颜面霜 113",
+       "price":"¥77"
+    },
+    {
+       "pic":"./data/images/d07.jpg",
+       "desc":"格丽松 马油霜 119",
+       "price":"¥72"
+    },
+    {
+       "pic":"./data/images/d08.jpg",
+       "desc":"美丽世界 多功能修护霜SPF30/PA++ 134",
+       "price":"¥142"
+    },
+    {
+       "pic":"./data/images/d09.jpg",
+       "desc":"高丝 透明质酸洁面泡沫 206",
+       "price":"¥33"
+    },
+    {
+       "pic":"./data/images/d10.jpg",
+       "desc":"资生堂 亮润洗面膏 209",
+       "price":"¥208"
+    },
+    {
+       "pic":"./data/images/d11.jpg",
+       "desc":"兰蔻 净透洁面泡沫 209",
+       "price":"¥277"
+    }
+
+  ]
+}

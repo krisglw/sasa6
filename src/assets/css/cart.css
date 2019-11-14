@@ -1,0 +1,359 @@
+.header2{
+  background-image: linear-gradient(90deg,#ed008c,#ff668b);
+  padding: 15px 0px;
+  box-sizing: border-box;
+  text-align: center;
+  color: #fff;
+  font-size: 1.15rem;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+.header2 h1{
+  width: 22%;
+  margin: auto;
+}
+.number2{
+  display: inline-block;
+  width:1.25rem;
+  height:1.25rem;
+  text-align: center;
+  line-height: 1.25rem;
+  background-color: #fff;
+  color: #ED008C;
+  border-radius: 50%;
+  font-size: 0.8rem;
+  float: right;
+}
+.k_padding3{
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+.content{
+  background-color: #F6F6F6;
+  padding-top:70px;
+  box-sizing: border-box;
+}
+.notice{
+  border-image: 15px;
+  color: #da7b12;
+  background: #fff9d7;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  font-size: 0.75rem;
+  margin-bottom: 10px;
+
+}
+.notice span{
+  padding-right: 5px;
+  box-sizing: border-box;
+}
+.notice i{
+  float: right;
+  font-style: normal;
+  font-size: 0.85rem;
+  margin-top: -10px;
+}
+/* 购物车 */
+.shoppingCart_empty{
+  background-color: #fff;
+  border-radius:15px;
+  margin-bottom: 15px;
+}
+.cart_null{
+ text-align: center;
+  padding: 40px 0px;
+  box-sizing: border-box;
+}
+.cart{
+  width: 4.5rem;
+  height: 4.5rem;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+.cart_null img{
+  width: 100%;
+}
+.cart_null span{
+  font-size: 0.85rem;
+}
+/* 加车后 */
+.shoppingCart{
+  background-color: #fff;
+  border-radius:15px;
+  margin-bottom: 15px;
+}
+.tit2{
+  padding: 10px 0px 10px 10px;
+  box-sizing: border-box;
+  position: relative;
+}
+.select_icon{
+  width: 1.7rem;
+  height: 1.7rem;
+  left: 10px;
+  top: 10px;
+  position: absolute;
+}
+.tit2 span{
+  font-size: 0.9rem;
+  display: inline-block;
+  margin-top:2px;
+  margin-left: 35px;
+}
+.shoppingCart ul{
+  padding: 10px 0px 10px 10px;
+}
+.goodsList div{
+  display: inline-block;
+}
+.goodsList li{
+  overflow: hidden;
+   border-top: 1px solid #f5f6f6;
+   padding: 10px 0px;
+   box-sizing: border-box;
+   width: 100%;
+   padding-right: 15px;
+}
+.select2{
+  position: relative;
+  width: 30px;
+  height: 30px;
+  float: left;
+
+}
+.select_icon2{
+  width: 1.7rem;
+  height: 1.7rem;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+.goodsImg{
+  width: 5.5rem;
+}
+.goodsImg img{
+  width: 100%;
+  display: inline-block;
+}
+.goodsInfo3{
+  font-size: 0.8rem;
+  padding-left: 5px;
+  box-sizing: border-box;
+  float: right;
+  width: 64%;
+
+}
+.saleType{
+  color: #ED008C;
+  border:1px solid #ED008C;
+  display: inline-block;
+  padding:1px 6px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  margin-right: 5px;
+}
+.taxes{
+  margin: 15px 0;
+  color: #666;
+}
+.price4{
+  color: #ED008C;
+  font-size:1.1rem;
+}
+.numberBox{
+  width: 100%;
+}
+.change_number{
+  float: right;
+  margin-top: 2px;
+}
+.sub,.add{
+  padding: 5px;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+.num{
+  padding: 3px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: #F6F6F6;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+.del{
+  font-size: 0.8rem;
+  color: #666;
+  float: right;
+  margin-top: 25px;
+}
+.del span{
+  padding: 5px;
+  box-sizing: border-box;
+}
+/* content5 */
+.cart_down{
+  margin-bottom:90px;
+  background-color: #f6f6f6;
+}
+.content5 ul{
+  display: flex;
+  display:-webkit-flex;
+  flex-wrap: wrap;
+}
+.content5 ul li{
+  margin: 5px;
+  padding: 0px 5px 10px;
+   width: calc(50% - 10px);
+  box-sizing: border-box;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content5 h3{
+  font-size: 0.85rem;
+  font-weight: bold;
+   margin-top: 5px;
+   height: 40px;
+}
+.blank2{
+  background-color: #f6f6f6;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  padding: 20px 0px;
+
+}
+.blank2 h2:before,.blank2 h2:after{
+  content: '';
+  display: inline-block;
+  height: 1px;
+  width:15%;
+  background-color: #ccc;
+  position: absolute;
+  top: 50%;
+}
+.blank2 h2:before{
+  left: 23%;
+}
+.blank2 h2:after{
+  right: 23%;
+}
+.express span{
+  display: inline-block;
+  padding: 2px 10px;
+  color: #ed008c;
+  border: 1px solid #ed008c;
+  border-radius: 30px;
+  font-size: 0.55rem;
+  margin: 5px 0px 8px;
+}
+.c5_imgBox{
+  position: relative;
+}
+.c5_img1{
+  width: 100%;
+  height: 186px;
+}
+.c5_img2,.c5_img3{
+  width: 2.5rem;
+  height: 1.5rem;
+  position: absolute;
+  top: 5px;
+}
+.c5_img2{
+  left: 5px;
+}
+.c5_img3{
+  left: 40px;
+}
+.c2_time{
+  text-align: center;
+}
+.content5 .c2_price{
+  float: left;
+  font-size: 1rem;
+}
+.area{
+  float: right;
+  font-size: 0.75rem;
+  margin-right: 5px;
+  margin-top: 7px;
+}
+.c5_box2{
+  background-color: #fff;
+}
+/* 结算 */
+.checkout{
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 55px;
+  background-color: #fff;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 0.85rem;
+}
+.checkoutBox{
+  width: 91%;
+  float: right;
+}
+.checkout .totalPrice{
+  color: #ED008C;
+  font-size: 0.9rem;
+  display: inline-block;
+  display: inline-block;
+  width: 20%;
+}
+.totalBox{
+  width: 30%;
+  display: inline-block;
+}
+.checkoutBox .total{
+  padding: 5px 10px;
+  box-sizing: border-box;
+  background-image: linear-gradient(90deg,#d4d4d4,#999);
+  border-radius: 45px;
+  color: #fff;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+
+}
+/* 倒计时 */
+.cart_down .c2_time{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  font-size: 0.7rem;
+  opacity: 0.8;
+  background: #fff0f5;
+  color: #e4007f;
+  height: 2rem;
+  line-height: 2rem;
+  width: 100%;
+}
+.newPrice{
+  color:#ed008c;
+}
+.oldPrice{
+  color: #ccc;
+  text-decoration: line-through;
+}
+/* 留白 */
+.cartBlank{
+  width: 100%;
+  height: 25px;
+}
+/* 加车计算 */
+.cart2{
+  display: inline-block;
+}
+ .cartCurrent img:nth-of-type(1){
+    display: inline-block;
+  }
+  .cartCurrent img:nth-of-type(2){
+    display: none;
+  }

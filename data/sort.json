@@ -1,0 +1,58 @@
+{
+  "blist1":[
+    {
+    "goods":"面部护肤",
+    "path":"/sort1"
+    },
+    {
+    "goods":"彩妆",
+    "path":"/sort1"
+
+    },
+    {
+    "goods":"香水",
+    "path":"/sort1"
+    },
+    {
+    "goods":"自然美肌",
+    "path":"/sort1"
+    },
+    {
+    "goods":"轻脂养胸",
+    "path":"/sort1"
+    },
+    {
+    "goods":"个人护理",
+    "path":"/sort1"
+    },
+    {
+    "goods":"男士专区",
+    "path":"/sort1"
+    },
+    {
+    "goods":"孕婴护理",
+    "path":"/sort1"
+    },
+    {
+    "goods":"特卖分类",
+    "path":"/sort1"
+    },
+    {
+    "goods":"所有分类",
+    "path":"/sort1"
+    }
+
+
+  ],
+  "list1":[
+    {
+      "goods":"洁面"
+    },
+    {
+      "goods":"磨砂"
+    },
+    {
+      "goods":"卸妆"
+    }
+  ]
+}

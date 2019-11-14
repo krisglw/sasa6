@@ -1,0 +1,636 @@
+{
+ "aList1":[
+    {
+      "pic":"./data/images/a01.jpg",
+      "desc":"泰国妆蕾 妆蕾蚕丝面膜",
+      "pro":{
+
+      },
+      "sales":"已抢90%",
+      "price":"￥54"
+    },
+    {
+      "pic":"./data/images/a02.jpg",
+      "desc":"兰蔻 清滢柔肤水 粉水 ",
+      "pro":{
+
+      },
+      "sales":"已抢88%",
+      "price":"￥288"
+    },
+    {
+      "pic":"./data/images/a03.jpg",
+      "desc":"悦木之源 灵芝焕能精华水菌菇水",
+      "pro":{
+
+      },
+      "sales":"已抢92%",
+      "price":"￥172"
+    },
+    {
+      "pic":"./data/images/a04.jpg",
+      "desc":"MUMO 15,000mg多效焕亮嫩肌胶原蛋白饮(2019新口味)",
+      "pro":{
+
+      },
+      "sales":"已抢88%",
+      "price":"￥118"
+    },
+    {
+      "pic":"./data/images/a05.jpg",
+      "desc":"安娜贝拉 海藻补水滋养面膜",
+      "pro":{
+
+      },
+      "sales":"已抢98%",
+      "price":"￥35"
+    }
+  ],
+  "aList2":[
+    {
+      "pic":"./data/images/a07.jpg",
+      "desc":"贝德玛 舒妍多效洁肤液",
+      "newPrice":"￥288",
+      "oldPrice":"￥89"
+
+    },
+    {
+      "pic":"./data/images/a08.jpg",
+      "desc":"HABA 润泽柔肤水G露",
+     "newPrice":"￥260",
+     "oldPrice":"￥126"
+
+    },
+    {
+      "pic":"./data/images/a09.jpg",
+      "desc":"伊丽莎白 · 雅顿 升级版金致胶囊精华液(金胶)",
+      "newPrice":"￥570",
+      "oldPrice":"￥255"
+
+    },
+    {
+      "pic":"./data/images/a10.jpg",
+      "desc":"兰芝 基础护理套装_水衡透润",
+      "newPrice":"￥445",
+      "oldPrice":"￥244"
+
+    }
+  ],
+"aList3":[
+    {
+      "pic":"./data/images/a11.jpg",
+      "desc":"兰蔻 清滢柔肤水 粉水",
+      "newPrice":"￥420",
+      "oldPrice":"￥288"
+
+    },
+    {
+      "pic":"./data/images/a12.jpg",
+      "desc":"伊丽莎白 · 雅顿 升级版金致胶囊精华液(金胶)",
+     "newPrice":"￥736",
+     "oldPrice":"￥363"
+
+    },
+    {
+      "pic":"./data/images/a13.jpg",
+      "desc":"黛珂 牛油果乳液",
+      "newPrice":"￥458",
+      "oldPrice":"￥710"
+
+    },
+    {
+      "pic":"./data/images/a14.jpg",
+      "desc":"娇韵诗 第8代双萃焕能修护精华露大瓶装",
+      "newPrice":"￥599",
+      "oldPrice":"￥960"
+
+    }
+  ],
+  "aList4":[
+      {
+        "pic":"./data/images/a16.jpg",
+        "desc":"雪花秀 滋盈肌本润颜水乳套装",
+       "newPrice":"￥474",
+       "oldPrice":"￥810"
+
+      },
+      {
+        "pic":"./data/images/a18.jpg",
+        "desc":"后 拱辰享气津套装",
+      "newPrice":"￥697",
+      "oldPrice":"￥1180"
+
+      },
+      {
+        "pic":"./data/images/a19.jpg",
+        "desc":"珂润 浸润保湿套装",
+       "newPrice":"￥231",
+       "oldPrice":"￥460"
+
+      },
+      {
+        "pic":"./data/images/a20.jpg",
+        "desc":"资生堂 红妍肌活系列护肤套装 (红腰子套装)",
+        "newPrice":"￥1106",
+        "oldPrice":"￥1410"
+
+      }
+    ],
+    "aList5":[
+        {
+          "pic":"./data/images/25.jpg",
+          "desc":"娜丽斯 SPF50+PA++++美容液喷雾",
+         "newPrice":"￥45",
+         "oldPrice":"￥99"
+
+        },
+        {
+          "pic":"./data/images/a22.jpg",
+          "desc":"资生堂 新艳阳夏水活力防晒乳SPF50+（蓝胖子）",
+        "newPrice":"￥159",
+        "oldPrice":"￥298"
+
+        },
+        {
+          "pic":"./data/images/a23.jpg",
+          "desc":"珂润 浸润保湿套装",
+         "newPrice":"￥179",
+         "oldPrice":"￥340"
+
+        },
+        {
+          "pic":"./data/images/a24.jpg",
+          "desc":"怡思丁 多维光护沁融水感防晒液 SPF 50+",
+          "newPrice":"￥72",
+          "oldPrice":"￥119"
+
+        }
+      ],
+      "aList6":[
+          {
+            "pic":"./data/images/a26.jpg",
+            "desc":"Medicox 修护洗发露",
+           "newPrice":"￥107",
+           "oldPrice":"￥743"
+
+          },
+          {
+            "pic":"./data/images/a27.jpg",
+            "desc":"爱马仕 爱马仕大地男士淡香水",
+          "newPrice":"￥520",
+          "oldPrice":"￥735"
+
+          },
+          {
+            "pic":"./data/images/a28.jpg",
+            "desc":"碧欧泉 男士橄榄青春乳液",
+           "newPrice":"￥316",
+           "oldPrice":"￥580"
+
+          },
+          {
+            "pic":"./data/images/a29.jpg",
+            "desc":"法拉利 黑色法拉利男士香水套装",
+            "newPrice":"￥257",
+            "oldPrice":"￥471"
+
+          }
+        ],
+        "aList7":[
+            {
+              "pic":"./data/images/a41.jpg",
+              "desc":"兰芝 雪纱丝柔妆前隔离霜 SPF25/PA++",
+             "newPrice":"￥220",
+             "oldPrice":"￥115"
+
+            },
+            {
+              "pic":"./data/images/a42.jpg",
+              "desc":"伊丽莎白 · 雅顿 金致修护胶囊限定礼盒装 (4件装)",
+            "newPrice":"￥655",
+            "oldPrice":"￥325"
+
+            },
+            {
+              "pic":"./data/images/a43.jpg",
+              "desc":"雪花秀 滋晶雪滢礼盒套装(7件装)",
+             "newPrice":"￥569",
+             "oldPrice":"￥1380"
+
+            },
+            {
+              "pic":"./data/images/a44.jpg",
+              "desc":"资生堂 WASO青春日和系列 青春日和去角质洁面乳",
+              "newPrice":"￥159",
+              "oldPrice":"￥255"
+
+            }
+          ],
+          "aList8":[
+              {
+                "pic":"./data/images/45.jpg",
+                "desc":"贝德玛 舒妍多效洁肤液",
+               "newPrice":"￥89",
+               "oldPrice":"￥150"
+
+              },
+              {
+                "pic":"./data/images/46.jpg",
+                "desc":"芙丽芳丝 净润洗面霜",
+              "newPrice":"￥105",
+              "oldPrice":"￥159"
+
+              },
+              {
+                "pic":"./data/images/47.jpg",
+                "desc":"PAPA RECIPE 春雨蜂蜜面膜",
+               "newPrice":"￥78",
+               "oldPrice":"￥149"
+
+              },
+              {
+                "pic":"./data/images/48.jpg",
+                "desc":"雅漾 舒护调理喷雾",
+                "newPrice":"￥82",
+                "oldPrice":"￥185"
+
+              }
+            ],
+            "aList9":[
+                {
+                  "pic":"./data/images/a50.jpg",
+                  "desc":"兰蔻 水份缘柔缓精华液小样",
+                 "newPrice":"￥71",
+                 "oldPrice":"￥105"
+
+                },
+                {
+                  "pic":"./data/images/a51.jpg",
+                  "desc":"A.H.C 胶原蛋白面膜（第三代）",
+                "newPrice":"￥91",
+                "oldPrice":"￥150"
+
+                },
+                {
+                  "pic":"./data/images/a52.jpg",
+                  "desc":"古驰 Bloom 香水套装",
+                 "newPrice":"￥641",
+                 "oldPrice":"￥1005"
+
+                },
+                {
+                  "pic":"./data/images/a53.jpg",
+                  "desc":"希思黎 调理化妆水",
+                  "newPrice":"￥384",
+                  "oldPrice":"￥670"
+
+                }
+              ],
+              "aList10":[
+                  {
+                    "pic":"./data/images/a33.jpg",
+                    "desc":"蔻依 浓香水",
+                   "newPrice":"￥319",
+                   "oldPrice":"￥850"
+
+                  },
+                  {
+                    "pic":"./data/images/a31.jpg",
+                    "desc":"博柏利 红粉恋歌淡香水",
+                  "newPrice":"￥172",
+                  "oldPrice":"￥650"
+
+                  },
+                  {
+                    "pic":"./data/images/a32.jpg",
+                    "desc":"安娜苏 筑梦天马淡香水",
+                   "newPrice":"￥329",
+                   "oldPrice":"￥705"
+
+                  },
+                  {
+                    "pic":"./data/images/a34.jpg",
+                    "desc":"迪奥 迪奥小姐花漾淡香氛",
+                    "newPrice":"￥735",
+                    "oldPrice":"￥1030"
+
+                  }
+                ],
+                "aList11":[
+                    {
+                      "pic":"./data/images/a55.jpg",
+                      "desc":"泰国妆蕾 妆蕾蚕丝面膜",
+                     "newPrice":"￥54",
+                     "oldPrice":"￥94"
+
+                    },
+                    {
+                      "pic":"./data/images/a56.jpg",
+                      "desc":"安热沙 抗水耐汗美肌UV乳液SPF50+PA++++小金瓶",
+                    "newPrice":"￥159",
+                    "oldPrice":"￥298"
+
+                    },
+                    {
+                      "pic":"./data/images/a57.jpg",
+                      "desc":"泰国妆蕾 妆蕾蚕丝面膜(银)",
+                     "newPrice":"￥54",
+                     "oldPrice":"￥98"
+
+                    },
+                    {
+                      "pic":"./data/images/a58.jpg",
+                      "desc":"HABA 润泽柔肤水G露",
+                      "newPrice":"￥126",
+                      "oldPrice":"￥260"
+
+                    }
+                  ],
+                  "aList12":[
+                      {
+                        "pic":"./data/images/a60.jpg",
+                          "desc":"魅可 柔感哑光唇膏 子弹头",
+                        "newPrice":"￥129",
+                        "oldPrice":"￥190"
+
+                      },
+                      {
+                        "pic":"./data/images/a61.jpg",
+                        "desc":"迪奥 烈艳蓝金唇膏",
+                      "newPrice":"￥219",
+                      "oldPrice":"￥280"
+
+                      },
+                      {
+                        "pic":"./data/images/a62.jpg",
+                        "desc":"纪梵希 高定香榭天鹅绒唇膏 小羊皮",
+                       "newPrice":"￥229",
+                       "oldPrice":"￥320"
+
+                      },
+                      {
+                        "pic":"./data/images/a63.jpg",
+                        "desc":"汤姆 ∙福特 黑管黑金口红唇膏",
+                        "newPrice":"￥312",
+                        "oldPrice":"￥449"
+
+                      },
+                      {
+                        "pic":"./data/images/a64.jpg",
+                        "desc":"娇兰 亲亲唇膏",
+                       "newPrice":"￥194",
+                       "oldPrice":"￥320"
+
+                      },
+                      {
+                        "pic":"./data/images/a65.jpg",
+                        "desc":"旁氏/透亮净颜控油防晒粉(闪蜜BB)",
+                      "newPrice":"￥19",
+                      "oldPrice":"￥20"
+
+                      },
+                      {
+                        "pic":"./data/images/a66.jpg",
+                        "desc":"娇兰 金钻修颜粉底液 SPF30-PA+++  #01 Beige Pâle",
+                       "newPrice":"￥499",
+                       "oldPrice":"￥785"
+
+                      },
+                      {
+                        "pic":"./data/images/a67.jpg",
+                        "desc":"HABA 润泽柔肤水G露",
+                        "newPrice":"￥126",
+                        "oldPrice":"￥260"
+
+                      }
+                    ],
+                    "aList13":[
+                        {
+                          "pic":"./data/images/a70.jpg",
+                            "desc":"雅诗兰黛 持妆粉底液 SPF10/PA++",
+                          "newPrice":"￥255",
+                          "oldPrice":"￥360"
+
+                        },
+                        {
+                          "pic":"./data/images/71.jpg",
+                          "desc":"娇兰 幻彩流星粉球 #02 白晢肤色",
+                        "newPrice":"￥265",
+                        "oldPrice":"￥520"
+
+                        },
+                        {
+                          "pic":"./data/images/72.jpg",
+                          "desc":"罗拉玛斯亚 柔光透明保湿蜜粉(透明色)",
+                         "newPrice":"￥247",
+                         "oldPrice":"￥319"
+
+                        },
+                        {
+                          "pic":"./data/images/73.jpg",
+                          "desc":"纪梵希 幻彩蜜粉 # 慕斯淡彩",
+                          "newPrice":"￥349",
+                          "oldPrice":"￥610"
+
+                        },
+                        {
+                          "pic":"./data/images/74.jpg",
+                          "desc":"娥佩兰 柔润亮泽染色唇膏",
+                         "newPrice":"￥156",
+                         "oldPrice":"￥288"
+
+                        },
+                        {
+                          "pic":"./data/images/a75.jpg",
+                          "desc":"圣罗兰 圣罗兰纯口红 方管 ",
+                        "newPrice":"￥233",
+                        "oldPrice":"￥289"
+
+                        },
+                        {
+                          "pic":"./data/images/a76.jpg",
+                          "desc":"娇兰 金钻修颜粉底液 SPF30-PA+++  #01 Beige Pâle",
+                         "newPrice":"￥216",
+                         "oldPrice":"￥385"
+
+                        },
+                        {
+                          "pic":"./data/images/a78.jpg",
+                          "desc":"圣罗兰/圣罗兰纯口红 方管",
+                          "newPrice":"￥233",
+                          "oldPrice":"￥320"
+
+                        }
+                      ],
+                      "aList14":[
+                        {
+                          "pic":"./data/images/a79.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a80.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a81.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a82.jpg"
+                        },
+
+                        {
+                          "pic":"./data/images/a83.jpg"
+                        },
+
+                        {
+                          "pic":"./data/images/a79.jpg"
+                        }
+
+
+                      ],
+                      "aList15":[
+                        {
+                          "pic":"./data/images/a84.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a85.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a86.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a87.jpg"
+                        },
+
+                        {
+                          "pic":"./data/images/a88.jpg"
+                        },
+
+                        {
+                          "pic":"./data/images/a89.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a90.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a91.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a92.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a93.jpg"
+                        },
+
+                        {
+                          "pic":"./data/images/a94.jpg"
+                        },
+
+                        {
+                          "pic":"./data/images/a95.jpg"
+                        },
+                        {
+                          "pic":"./data/images/a96.jpg"
+                        },
+
+                        {
+                          "pic":"./data/images/a97.jpg"
+                        },
+
+                        {
+                          "pic":"./data/images/a98.jpg"
+                        }
+                      ],
+                      "aList16":[
+                        {
+                          "pic":"./data/images/a99.jpg",
+                          "icon1":"./data/images/aicon1.png",
+                          "icon2":"./data/images/aicon2.png",
+                          "desc":"贝德玛 舒妍多效洁肤液",
+                          "newPrice":"￥89",
+                          "oldPrice":"￥288",
+                          "area":"欧美"
+                        },
+                        {
+                          "pic":"./data/images/a101.jpg",
+                          "icon1":"./data/images/aicon1.png",
+                          "icon2":"./data/images/aicon2.png",
+                          "desc":"悦木之源 灵芝焕能精华水菌菇水",
+                          "newPrice":"￥172",
+                          "oldPrice":"￥320",
+                          "area":"欧美"
+                        },
+                        {
+                          "pic":"./data/images/a102.jpg",
+                          "icon1":"./data/images/aicon1.png",
+                          "icon2":"./data/images/aicon2.png",
+                          "desc":"伊丽莎白 · 雅顿 绿茶蜜滴舒体霜",
+                          "newPrice":"￥98",
+                          "oldPrice":"￥245",
+                          "area":"欧美"
+                        },
+                        {
+                          "pic":"./data/images/a103.jpg",
+                          "icon1":"./data/images/aicon1.png",
+                          "icon2":"./data/images/aicon2.png",
+                          "desc":"雅诗兰黛 持妆粉底液 SPF10/PA++",
+                          "newPrice":"￥255",
+                          "oldPrice":"￥360",
+                          "area":"欧美"
+                        },
+                        {
+                          "pic":"./data/images/a104.jpg",
+                          "icon1":"./data/images/aicon1.png",
+                          "icon2":"./data/images/aicon2.png",
+                          "desc":"瑞士葆丽美 氧份肌底升华露升级版",
+                          "newPrice":"￥435",
+                          "oldPrice":"￥868",
+                          "area":"欧美"
+                        }
+                      ],
+                      "blist1":[
+                        {
+                        "goods":"面部护肤"
+                     
+                        },
+                        {
+                        "goods":"彩妆"
+               
+
+                        },
+                        {
+                        "goods":"香水"
+                        },
+                        {
+                        "goods":"自然美肌"
+                        },
+                        {
+                        "goods":"轻脂养胸"
+                        },
+                        {
+                        "goods":"个人护理"
+                        },
+                        {
+                        "goods":"男士专区"
+                        },
+                        {
+                        "goods":"孕婴护理"
+                        },
+                        {
+                        "goods":"特卖分类"
+                        },
+                        {
+                        "goods":"所有分类"
+                        }
+
+
+                      ]
+
+
+
+
+
+
+
+
+
+
+}

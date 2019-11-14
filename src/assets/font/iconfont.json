@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "43715420",
+      "name": "03右尖括号",
+      "font_class": "youjiankuohao",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
